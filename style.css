@@ -1,0 +1,36 @@
+.mainBlock {
+    padding: 6%;
+    padding-top: 10%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.Content {
+    opacity: 0.5;
+    background-color: white;
+    width: 100%;
+    border-radius: 20px 20px 20px 20px;
+    padding: 5%;
+}
+
+body {
+    background-image: url(image/MainBackgrount.jpg);
+    background-size: 100%;
+}
+
+.avtoriztion {
+    background-color: white;
+    border-radius: 0px 0px 0px 20px;
+    width: 300px;
+    height: 50px;
+    float: right;
+    position: relative;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.news {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    opacity: 1;
+}
